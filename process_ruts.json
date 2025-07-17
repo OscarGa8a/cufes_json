@@ -1,0 +1,49 @@
+{
+  "completion_date": null,
+  "created_at": "12 de julio de 2025, 3:23:36.482 p.m. UTC-5",
+  "id": "f190855b-e5ef-47e4-8338-25e9332ec2a2",
+  "identifier": "P-20250712-202336-8061",
+  "status": {
+    "key": "in_progress",
+    "value": "En proceso"
+  },
+  "total_completed": 0,
+  "total_sub_process": 3,
+  "type": {
+    "key": "rut",
+    "value": "RUT"
+  },
+  "updated_at": "12 de julio de 2025, 3:23:36.482 p.m. UTC-5",
+  "user": {
+    "email": "anagomez@example.com",
+    "first_names": "Ana",
+    "id": "abc12345-def6-7890-gh12-ijkl34567890",
+    "last_names": "Gomez"
+  },
+  "sub_processes": [
+    {
+      "completed": false,
+      "completion_date": "8 de julio de 2025, 6:43:44.260 p.m. UTC-5",
+      "created_at": "8 de julio de 2025, 6:41:33.134 p.m. UTC-5",
+      "cufe": null,
+      "data": {
+        "info": "siperds"
+      },
+      "identifier": "SP-20250705-170051-4967",
+      "nit": "1121932158",
+      "updated_at": "8 de julio de 2025, 6:41:57.043 p.m. UTC-5"
+    },
+    {
+      "completed": false,
+      "completion_date": "8 de julio de 2025, 6:43:44.260 p.m. UTC-5",
+      "created_at": "8 de julio de 2025, 6:41:33.134 p.m. UTC-5",
+      "cufe": null,
+      "data": {
+        "info": "siperds"
+      },
+      "identifier": "SP-20250705-170051-4967",
+      "nit": "40398321",
+      "updated_at": "8 de julio de 2025, 6:41:57.043 p.m. UTC-5"
+    }
+  ]
+}
