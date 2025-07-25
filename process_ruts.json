@@ -20,7 +20,7 @@
     "id": "abc12345-def6-7890-gh12-ijkl34567890",
     "last_names": "Gomez"
   },
-  "sub_processes": [
+  "subprocess": [
     {
       "completed": false,
       "completion_date": "8 de julio de 2025, 6:43:44.260 p.m. UTC-5",
